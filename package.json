@@ -1,0 +1,10 @@
+{
+  "name": "kyubi-webhook",
+  "version": "1.0.0",
+  "description": "KYUBI — Stripe webhook handler",
+  "dependencies": {
+    "stripe": "^14.0.0",
+    "resend": "^3.0.0",
+    "raw-body": "^2.5.2"
+  }
+}
